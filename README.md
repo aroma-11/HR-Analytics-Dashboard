@@ -78,3 +78,7 @@ I am an aspiring Data Analyst developing practical skills in Power BI, SQL, Pyth
 ## Conclusion
 
 The HR Analytics Dashboard demonstrates the application of Microsoft Power BI in analyzing HR data, identifying workforce trends, and presenting actionable insights to support informed business decisions.
+
+## Author
+Khushbu
+
